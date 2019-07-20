@@ -1,10 +1,8 @@
-# MyFirstWWW
-First repository 
-
-Git& Github tutorial www.flynerd.pl 
-
-HTML & CSS tutorial  www.samurajprogramowania.pl
+# template website
 
 
+### My first simple website. 
 
-https://kierepkae.github.io/MyFirstWWW/
+- JavaScript
+- CSS 
+- HTML
